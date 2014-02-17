@@ -4,7 +4,7 @@
   <title><![CDATA[User Experience Strategy]]></title>
   <link href="http://hisashi0929.github.io/atom.xml" rel="self"/>
   <link href="http://hisashi0929.github.io/"/>
-  <updated>2014-02-17T16:14:18+09:00</updated>
+  <updated>2014-02-17T16:18:02+09:00</updated>
   <id>http://hisashi0929.github.io/</id>
   <author>
     <name><![CDATA[Hisashi Furukawa]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA['First postrake new_post['post title']']]></title>
-    <link href="http://hisashi0929.github.io/blog/2014/02/13/first-postrake-new-post-post-title/"/>
+    <link href="http://hisashi0929.github.io/blog/first-postrake-new-post-post-title"/>
     <updated>2014-02-13T12:17:52+09:00</updated>
-    <id>http://hisashi0929.github.io/blog/2014/02/13/first-postrake-new-post-post-title</id>
+    <id>http://hisashi0929.github.io/blog/first-postrake-new-post-post-title</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
