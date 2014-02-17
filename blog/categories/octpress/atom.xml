@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[User Experience Strategy]]></title>
-  <link href="http://hisashi0929.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: octpress | User Experience Strategy]]></title>
+  <link href="http://hisashi0929.github.io/blog/categories/octpress/atom.xml" rel="self"/>
   <link href="http://hisashi0929.github.io/"/>
   <updated>2014-02-17T16:29:38+09:00</updated>
   <id>http://hisashi0929.github.io/</id>
