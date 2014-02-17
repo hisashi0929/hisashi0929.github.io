@@ -43,7 +43,11 @@ Feb 13 2014 Recent Posts 'First Postrake New_post['post Title']' &hellip;">
 
 
 </head>
-
+<script language="JavaScript">
+$(document).ready( function () {
+   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
+})
+</script>
 
 <body>
 	<div class="container">
